@@ -1,4 +1,4 @@
 # GO modules
 *.mod
 
-.gitignore
+./.gitignore
