@@ -94,8 +94,8 @@ func main() {
 
 	// Stark difference between array and slice
 
-	var thisArray = [...]int { 1, 2, 3, 4, 5}
-	var thisSlice = []int { 1, 2, 3, 4, 5 }
+	var thisArray = [...]int { 1, 2, 3, 4, 5} // -> Array
+	var thisSlice = []int { 1, 2, 3, 4, 5 } // -> Slice
 
 	fmt.Println(thisArray)
 	fmt.Println(thisSlice)
