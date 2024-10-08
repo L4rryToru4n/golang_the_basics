@@ -1,6 +1,6 @@
-# Project Highlights - Mini Project 1
+# Project Highlights - Mini Project 1 & 2
 ## Introduction
-In this basic project, a simple program to display dummy data of a few of Battlestar Galactica pilots and their symbols on a grid is built to solidify the Go learning experience.
+In these basic projects, a simple program to display dummy data of a few of Battlestar Galactica pilots and their symbols on a grid is built to solidify the Go learning experience.
 Topics that are covered by this project:
 - Primitive datatype
 - Functions
@@ -9,4 +9,13 @@ Topics that are covered by this project:
 - Type Declaration
 - Arrays datatype
 - Map datatype
-![golang_mini_project_1](https://github.com/user-attachments/assets/a7260903-1946-4d1a-ae14-b669f022b731)
+- Access Modifier
+- Struct
+- Pointers & Asterisk Operator
+- Nil data
+- Error
+- Error Handling : Panic & Recover
+- Custom Error
+
+![image](https://github.com/user-attachments/assets/b0e8caa3-df6e-4fe3-9ad5-c26fa9b3af2f)
+
